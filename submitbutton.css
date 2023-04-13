@@ -1,0 +1,9 @@
+﻿div#buttons {
+    text-align: center;
+    width: 100%
+}
+input[type='submit'], input[type='reset'] {
+    font-size: .8em;
+    padding: 5px;
+    margin: 15px;
+}

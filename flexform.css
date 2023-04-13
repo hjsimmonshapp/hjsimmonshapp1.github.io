@@ -1,0 +1,12 @@
+﻿form#survey {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+    form#survey > fieldset {
+        border-radius: 20px;
+        flex: 1 1 150px;
+        font-size: 0.40cm;
+        padding: 10px;
+        margin: 10px;
+    }

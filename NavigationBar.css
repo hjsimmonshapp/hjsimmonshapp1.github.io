@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+aside ul .navside {
+    background-image: url(url);
+    list-style-image: none;
+    list-style-type: none;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000000;
+    text-shadow: 0px 0px;
+    font-family: "Ratio Modern ExtraBold";
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navside li {
+    display: inherit;
+    font-family: "Ratio Modern", "Ratio Modern ExtraBold", "Ratio Modern Italic", "Ratio Modern Medium", "Ratio Modern Small Caps";
+    color: #000000;
+}
+.navside li a {
+    display: inline-block;
+    text-decoration: none;
+    font-family: "Ratio Modern ExtraBold";
+    text-transform: uppercase;
+    color: #4d5d53;
+    text-shadow: 0 0 #FFFAFA;
+    /* [disabled]letter-spacing: 100%; */
+    list-style-type: none;
+    list-style-image: none;
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+    text-align: center;
+    /* [disabled]vertical-align: baseline; */
+    list-style-position: inside;
+    font-weight: bolder;
+}

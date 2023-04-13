@@ -1,0 +1,48 @@
+@charset "UTF-8";
+#firstdiv {
+background: url("../assets/laura-adai-MpKiQTIJTP8-unsplash.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+#firstdiv header {
+    height: 300px;
+    background-image: url(../assets/header.png);
+    clear: both;
+    float: none;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: auto auto;
+    width: auto;
+}
+#firstdiv nav1 {
+    height: 50px;
+	color: #4d5d53;
+}
+#firstdiv aside {
+    height: 400px;
+    width: 200px;
+    float: left;
+    color: #4d5d53;
+}
+#firstdiv section {
+    height: 400px;
+    width: 800px;
+    float: right;
+    color: #A13E00;
+    font-family: "Ratio Modern", "Ratio Modern ExtraBold", "Ratio Modern Italic", "Ratio Modern Medium", "Ratio Modern Small Caps";
+    clear: none;
+    text-align: left;
+}
+#firstdiv section iphone {
+    float: right;
+}
+#firstdiv footer {
+    height: 30px;
+    clear: both;
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Ratio Modern ExtraBold";
+    font-weight: bolder;
+}

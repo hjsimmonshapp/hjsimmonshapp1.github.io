@@ -1,0 +1,13 @@
+@charset "UTF-8";
+#firstdiv nav {
+    color: #4d5d53;
+    font-family: "Ratio Modern ExtraBold";
+    text-transform: uppercase;
+    border-color: #FFFFFF;
+    /* [disabled]border-style: solid; */
+    border-width: medium;
+    text-align: center;
+    text-shadow: 0 0 0 #FFFFFF;
+    word-spacing: 10%;
+    font-weight: bolder;
+}
