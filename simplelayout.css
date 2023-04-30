@@ -14,7 +14,6 @@ background-size: cover;
     background-attachment: scroll;
     background-position: center center;
     background-size: auto auto;
-    width: auto;
 }
 #firstdiv nav1 {
     height: 50px;
@@ -35,9 +34,6 @@ background-size: cover;
     clear: none;
     text-align: left;
 }
-#firstdiv section iphone {
-    float: right;
-}
 #firstdiv footer {
     height: 30px;
     clear: both;
@@ -45,4 +41,37 @@ background-size: cover;
     text-decoration: underline;
     font-family: "Ratio Modern ExtraBold";
     font-weight: bolder;
+}
+#firstdiv section p {
+    list-style-position: inside;
+    list-style-type: armenian;
+    text-align: center;
+}
+.ipadimage {
+    text-align: right;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    float: none;
+    clear: both;
+}
+.codingimage {
+    float: none;
+    text-align: center;
+}
+tbody tr td {
+    clear: none;
+    text-transform: uppercase;
+    /* [disabled]min-height: 0px; */
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+#firstdiv section img {
+    float: left;
+}
+#firstdiv section p {
+    text-align: left;
 }
